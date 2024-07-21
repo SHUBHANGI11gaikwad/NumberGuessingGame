@@ -10,7 +10,7 @@ This Java program is a simple number guessing game where the user tries to guess
 
 ## Requirements
 
-- Java Development Kit (JDK) 11 or higher
+- Java Development Kit (JDK) 17 or higher
 
 ## How to Run
 
